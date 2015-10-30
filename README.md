@@ -1,4 +1,4 @@
-!(https://raw.githubusercontent.com/mwvd/crosswords/master/crosswords.png "Crosswords")
+![Crosswords](https://raw.githubusercontent.com/mwvd/crosswords/master/crosswords.png "Crosswords")
 
 
 open source crossword puzzles
